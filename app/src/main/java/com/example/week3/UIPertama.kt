@@ -72,6 +72,10 @@ fun ActivitasPertama(modifier: Modifier) {
                         color = color.White,
                         modifier = Modifier.padding(top =15.dp)
                     )
+                    Text (
+                        text = stringResource(id = R.string.alamat),
+
+                    )
                 }
 
             }
