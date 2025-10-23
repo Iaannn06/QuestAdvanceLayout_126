@@ -50,7 +50,10 @@ fun ActivitasPertama(modifier: Modifier) {
                 containerColor = Color.DarkGray
             )
         ){
+            Row() {
+                val gambar = painterResource(id = R.drawable.Gambarku )
 
+            }
         }
 
 
