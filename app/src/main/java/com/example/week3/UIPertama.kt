@@ -1,5 +1,6 @@
 package com.example.week3
 
+import android.R.attr.fontWeight
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import android.widget.Space
@@ -26,6 +27,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
+
+
+
 @Composable
 fun ActivitasPertama(modifier: Modifier) {
     Column (modifier = Modifier
@@ -36,7 +40,7 @@ fun ActivitasPertama(modifier: Modifier) {
         Text(
             text = stringResource(R.string.prodi),
             fontSize = 32.sp,
-            fontWeight = fontWeight.Bold
+            fontWeight = FontWeight.Bold
         )
         Text(text = stringResource(id = R.string.univ),
             fontSize = 22.sp
@@ -51,7 +55,7 @@ fun ActivitasPertama(modifier: Modifier) {
             )
         ){
             Row() {
-                val gambar = painterResource(id = R.drawable.Gambarku )
+                val gambar = painterResource(id = R.drawable.gambarku )
                 Image(
                     painter = gambar,
                     contentDescription = null,
@@ -59,6 +63,10 @@ fun ActivitasPertama(modifier: Modifier) {
                         .size(size = 100.dp)
                         .padding(all = 5.dp)
                 )
+                Spacer(modifier = Modifier.width(width = 30.dp))
+                Column () {
+
+                }
 
             }
         }
