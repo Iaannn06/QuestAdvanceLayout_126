@@ -4,5 +4,11 @@
     <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
     <string name="nama">M. Alfiansyah Azad</string>
     <string name="alamat">Kasihan, Bantul</string>
+    <string name="nama1">Natalius Pigai</string>
+    <string name="nim1"> 20230140100</string>
+    <string name="alamat1">Mlati, SLeman</string>
+    <string name="nama2">Dadan Hidayana</string>
+    <string name="nim2"> 20230140150</string>
+    <string name="alamat2">Depok, SLeman</string>
     <string name="copy">copyright, 2025</string>
 </resources>
