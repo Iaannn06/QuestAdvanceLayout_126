@@ -1,3 +1,4 @@
 Hasil tampilan
-<img width="390" height="825" alt="Screenshot 2025-10-24 160110" src="https://github.com/user-attachments/assets/e1c1a97e-a563-49ac-a118-d065cf22bfed" />
+<img width="1280" height="2856" alt="Screenshot_20251024_160830" src="https://github.com/user-attachments/assets/4e7861dd-a225-4cf4-912d-37495a462141" />
+
 
