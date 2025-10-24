@@ -1,2 +1,3 @@
 Hasil tampilan
-<img width="390" height="825" alt="image" src="https://github.com/user-attachments/assets/8cdd580b-54a6-4f75-bab8-abfeffc920bc" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/2dc8d327-87bc-4853-9d8f-5b7f367a1c04" />
+
